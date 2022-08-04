@@ -1,6 +1,6 @@
 <?php
-$name = "THAMMAKIT CHOTCHUANG";
-$sid = "64106107";
+$name = "Supanut Koomruck";
+$sid = "64113889";
 echo "Hello ", $name;
 echo "ID : ", $sid;
 ?>
